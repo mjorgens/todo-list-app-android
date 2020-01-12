@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Todo List App</string>
+    <string name="title_activity_main">Todo List App</string>
+    <string name="add_list_dialog_title">Add List</string>
+    <string name="add_user_dialog_title">Add User</string>
+    <string name="update_list_dialog_title">Update List</string>
+    <string name="add_item_dialog_title">Add Item To List</string>
+    <string name="edit_item_dialog__title">Edit Item</string>
+    <string name="remove_list_dialog_title">Remove List</string>
+
+    <string name="add_label">ADD</string>
+    <string name="cancel_label">@android:string/cancel</string>
+    <string name="save_label">SAVE</string>
+    <string name="update_label">UPDATE</string>
+    <string name="undo_label">UNDO</string>
+    <string name="remove_label">REMOVE</string>
+
+    <string name="list_name_label">List Name</string>
+    <string name="todo_title_label">Title</string>
+    <string name="todo_description_label">Description</string>
+    <string name="todo_priority_label">Priority</string>
+    <string name="user_label">User</string>
+
+    <string name="list_deleted_snackbar_text">List Deleted</string>
+    <string name="item_deleted_snackbar_text">Item Deleted</string>
+
+    <string name="remove_list_message">Are you sure you want to remove list?</string>
+
+    <string name="please_login">Please Login</string>
+
+</resources>

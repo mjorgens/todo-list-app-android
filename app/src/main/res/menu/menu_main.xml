@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.weber.marcjorgensen.cs3270finalproject.MainActivity">
+    <item
+        android:id="@+id/menu_login"
+        android:title="Login"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        app:showAsAction="always" />
+</menu>
